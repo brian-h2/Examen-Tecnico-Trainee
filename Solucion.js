@@ -22,7 +22,7 @@ function sumNums (nums,requiredSum) {
 
 };
 
-let nums = [1,4,3,9];
+let nums = [1,2,4,4];
 let requiredSum = 8;
 
 sumNums(nums,requiredSum)
